@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# buscarletrasapp
+Aplicación de busqueda de letras de canciones creada con reactjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# buscarletrasapp
-Aplicación de busqueda de letras de canciones creada con reactjs
->>>>>>> a1be68e3081a4ea4a3a67125a8894fb2f1a5b166
+
